@@ -1,0 +1,2 @@
+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
+git remote set-url origin https://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@github.com/wenlonglian/<REPO>.git
