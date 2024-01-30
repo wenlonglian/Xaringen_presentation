@@ -20,7 +20,7 @@ class: inverse, center, middle
 ---
 Class:inverse, left
 #Fundamental Principle
-.pull-left[**Synthetic Aperture Radar (SAR)** is to utilize the phase differences in the radar beam to collect radar signals from various directions and positions, and then synthesize them to obtain high-resolution images. This technology allows SAR to generate surface images without being affected by the Earth's rotation, making it particularly useful for observations during nighttime, cloud cover, or different weather conditions.]
+.pull-left[**Synthetic Aperture Radar (SAR)** is to   utilize the phase differences in the radar beam to collect radar signals from various directions and positions, and then synthesize them to obtain high-resolution images. This technology allows SAR to generate surface images without being affected by the Earth's rotation, making it particularly useful for observations during nighttime, cloud cover, or different weather conditions.]
 
 ```{r echo=FALSE, out.width='40%', fig.align='right'}
 knitr::include_graphics('./11.jpg')
